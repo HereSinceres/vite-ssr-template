@@ -8,7 +8,7 @@ yarn start
 打开测试导航界面 http://localhost:3000/menu
 
 ### 部署某一个业务模块
-cd app-activity
+cd app-shop
 yarn
 yarn build      ----    可选，某些应用程序是单页面应用程序，需要将产出部署到server端
 yarn dev        ----    可选，某些应用程序是单页面应用程序，可以直接景象开发
