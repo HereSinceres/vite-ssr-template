@@ -107,9 +107,6 @@ import c from './index.module.css'
 
 使用 file:// 例如："@ProjectName/lib-common": "file:../lib-common" 参考：https://github.com/lerna/lerna/blob/main/commands/import/package.json
 
-## 平台属性 TODO:@mayubo 待定
-
-cookie: platform: 1; 1 店铺店铺类型 批发商、餐厅、超市
 
 # 已知问题
 
