@@ -1,0 +1,17 @@
+{
+    "name": "app-star-wars",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gulp deploy"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@ProjectName/lib-common": "file:../lib-common"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2"
+    }
+}
